@@ -211,3 +211,5 @@ teramind_venv/
 *artifacts/
 *test.ipynb
 *.json
+
+app/main.ipynb
